@@ -23,6 +23,12 @@ On pressing reset button; form rests but data does not, so we have to clear it m
 </form>
 ```
 
+###### Input modifiers:
+
+- .number — automatically converts the value in the form field to a number
+- .trim — removes whitespace from the beginning and ends of the form field value
+- .lazy — only updates data values when change events are triggered (often when a user moves away from the form field rather than after every keystroke)
+
 ---
 
 #### Data (dynamic data)
