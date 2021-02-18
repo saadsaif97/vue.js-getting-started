@@ -23,10 +23,18 @@ On pressing reset button; form rests but data does not, so we have to clear it m
 </form>
 ```
 
+---
+
 #### Data (dynamic data)
+
+---
 
 #### Methods
 
+---
+
 #### Computed
+
+---
 
 #### Watch
