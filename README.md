@@ -12,7 +12,7 @@ SHORTHAND FOR EVENT HANDLERS IS @
 On pressing reset button; form rests but data does not, so we have to clear it manually by method
 @reset="resetFields" // resetFields is from the methods: {}
 
-EVENT MODIFIERS:
+###### Event modifiers:
 
 - @submit.prevent // event.preventDefault()
 - @submit.stop // event.stopPropagation()
